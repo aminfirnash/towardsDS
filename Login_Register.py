@@ -12,7 +12,7 @@ for line in store:
     e.append(a)
     p.append(b)
 data = dict(zip(e, p))
-print(data)
+#print(data) 
 
 
 def begin():
